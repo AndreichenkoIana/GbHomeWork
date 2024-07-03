@@ -1,0 +1,14 @@
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\bin\Debug\net8.0\Gb_Education.exe
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\bin\Debug\net8.0\Gb_Education.deps.json
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\bin\Debug\net8.0\Gb_Education.runtimeconfig.json
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\bin\Debug\net8.0\Gb_Education.dll
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\bin\Debug\net8.0\Gb_Education.pdb
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\obj\Debug\net8.0\Gb_Education.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\obj\Debug\net8.0\Gb_Education.AssemblyInfoInputs.cache
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\obj\Debug\net8.0\Gb_Education.AssemblyInfo.cs
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\obj\Debug\net8.0\Gb_Education.csproj.CoreCompileInputs.cache
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\obj\Debug\net8.0\Gb_Education.dll
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\obj\Debug\net8.0\refint\Gb_Education.dll
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\obj\Debug\net8.0\Gb_Education.pdb
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\obj\Debug\net8.0\Gb_Education.genruntimeconfig.cache
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\Gb_Education\Gb_Education\obj\Debug\net8.0\ref\Gb_Education.dll
