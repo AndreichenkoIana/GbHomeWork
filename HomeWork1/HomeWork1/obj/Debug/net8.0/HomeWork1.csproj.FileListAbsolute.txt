@@ -12,3 +12,4 @@ C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\HomeWork1\HomeW
 C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.pdb
 C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.genruntimeconfig.cache
 C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\HomeWork1\HomeWork1\obj\Debug\net8.0\ref\HomeWork1.dll
+C:\Users\yandreychenko\Desktop\Учеба\Visual Studio Learn\Gb\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.sourcelink.json
