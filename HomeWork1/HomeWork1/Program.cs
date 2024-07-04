@@ -31,7 +31,8 @@ internal class Program
             Console.WriteLine($" {num1} {operation} {num2} = {result} ");
         }
         else
+        {
             Console.WriteLine("Для использования программы введите: число знак(+-/*) число");
-
+        }
     }
 }
